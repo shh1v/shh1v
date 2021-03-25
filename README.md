@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shh1v
 - 👀 I’m interested in Cyber security & Bug hunting.
-- 🌱 I’m currently studying at Univerity of British Columbia
+- 🌱 I’m currently studying at University of British Columbia
 - 📫 How to reach me:
   - mailto: sh1v@student.ubc.ca
   - LinkedIn: https://www.linkedin.com/in/sh1v
