@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shh1v
-- 👀 I’m interested in Cyber security & Bug hunting.
+- 👀 I’m interested in IOT & Artifical intellegence.
 - 🌱 I’m currently studying at University of British Columbia
 - 📫 How to reach me:
   - mailto: sh1v@student.ubc.ca
