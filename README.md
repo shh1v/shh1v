@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT & Artifical intellegence.
 - 🌱 I’m currently studying at University of British Columbia
 - 📫 How to reach me:
-  - mailto: sh1v@student.ubc.ca
+  - mailto: shiv.patel@ubc.ca
   - LinkedIn: https://www.linkedin.com/in/sh1v
 
 <!---
