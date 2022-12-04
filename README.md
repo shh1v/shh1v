@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shh1v
-- 👀 I’m interested in IOT & Artifical intellegence.
-- 🌱 I’m currently studying at University of British Columbia
+- 👀 I aspire to become a computer scientist one day!
+- 🌱 I’m currently studying Mathematics and Computer Science at the University of British Columbia
 - 📫 How to reach me:
   - mailto: shiv.patel@ubc.ca
   - LinkedIn: https://www.linkedin.com/in/sh1v
