@@ -5,7 +5,4 @@
   - mailto: shiv.patel@ubc.ca
   - LinkedIn: https://www.linkedin.com/in/sh1v
 
-<!---
-shh1v/shh1v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=shh1v&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
