@@ -5,9 +5,7 @@
   - mailto: shiv.patel@ubc.ca
   - LinkedIn: https://www.linkedin.com/in/sh1v
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shh1v)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shh1v)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shh1v)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shh1v)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shh1v&utcOffset=-12)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shh1v)
