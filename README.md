@@ -2,7 +2,7 @@
 - 👀 I aspire to become a computer scientist one day!
 - 🌱 I’m currently studying Mathematics and Computer Science at the University of British Columbia
 - 📫 How to reach me:
-  - mailto: shiv.patel@ubc.ca
+  - mailto: shivpatelhw [at] gmail [dot] com
   - LinkedIn: https://www.linkedin.com/in/sh1v
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shh1v)
